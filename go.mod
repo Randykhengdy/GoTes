@@ -1,3 +1,2 @@
-module github.com/Randy/go-test
-
+module github.com/RandyKhengdy/GoTest
 go 1.18

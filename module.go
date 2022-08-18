@@ -4,5 +4,5 @@ import "fmt"
 
 func Test() {
 
-	fmt.Println("1.0.7")
+	fmt.Println("1.0.8")
 }

@@ -1,8 +1,8 @@
-package gotes
+package s
 
 import "fmt"
 
 func Test() {
 
-	fmt.Println("aaa")
+	fmt.Println("1.0.3")
 }
